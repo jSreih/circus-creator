@@ -10,4 +10,4 @@ Note: This program was coded in french.
 
 # Demo
 
-![alt text](./
+![alt text](./circus-creator-demo.png)
